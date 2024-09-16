@@ -94,7 +94,3 @@ Contributions are welcome! Feel free to fork the project, open an issue, or subm
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Make sure to update the **Installation** section with your repository link when uploading to GitHub. This template is designed to be flexible for any data analysis project. Let me know if you'd like any additional features!

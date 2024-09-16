@@ -162,5 +162,5 @@ while True:
 
 
         # Taking user input
-    graph_number = int(input("Enter the number of the graph you want to display (1-24): "))
+    graph_number = int(input("Enter the number of the graph you want to display (1-17): "))
     display_graph(graph_number)
